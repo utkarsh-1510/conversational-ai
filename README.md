@@ -1,4 +1,4 @@
-# Heisenberg
+# Priti
 Voice Assistant in python 
 
 #### Packages needs to install
@@ -36,4 +36,3 @@ pip intall pipwin
 pipwin install pyaudio
 pip install --upgrade pyaudio
 ```
-#####Maybe all modules which are imported in code are not listed here. So install them respectively if you encounter with a error like ModuleNotFound.
